@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+featuretools
+feature-engine
+auto-sklearn
+shap
+lime
+langchain
+PyYAML
