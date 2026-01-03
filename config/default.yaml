@@ -1,0 +1,5 @@
+dataset_path: data/dataset.csv
+target_column: target
+automl_budget:
+  time_limit_seconds: 3600
+  per_run_time_limit_seconds: 300
